@@ -4,6 +4,11 @@
 [![Tests](https://github.com/piyush2707/Opencollect/actions/workflows/tests.yml/badge.svg)](https://github.com/piyush2707/Opencollect/actions/workflows/tests.yml)
 
 
+
+![OpenCollect — Find overdue invoices. Stay in control.](https://github.com/piyush2707/Opencollect/blob/main/assets/opencollect-banner.png?raw=true)
+
+
+
 **An open-source, developer-first toolkit for invoice follow-ups.**
 
 OpenCollect is an early-stage Python project for small businesses and developers who want to identify overdue invoices and prepare polite, reviewable payment reminders. The first release focuses on a small, dependable core that works locally and does not require an AI API key.
