@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "opencollect"
+version = "0.1.0"
+description = "Open-source toolkit for invoice follow-ups and overdue invoice detection"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Welvox / OpenCollect contributors" }]
+dependencies = []
+
+[project.scripts]
+opencollect = "opencollect.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["opencollect*"]
