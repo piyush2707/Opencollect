@@ -1,0 +1,5 @@
+invoice_id,customer,amount,due_date,status
+INV-1001,Sunrise Traders,18500.00,2026-10-15,unpaid
+INV-1002,Northstar Services,7200.00,2026-10-25,unpaid
+INV-1003,Mehta Components,12400.00,2026-10-01,paid
+INV-1004,Blue River Supplies,4999.00,2026-09-28,unpaid
